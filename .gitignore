@@ -1,7 +1,7 @@
-.vscode/*
-target/*
-src/test/*
-.settings/*
+/.vscode/
+/target/
+/src/test/
+/.settings/
 .classpath
 .factorypath
 .project
